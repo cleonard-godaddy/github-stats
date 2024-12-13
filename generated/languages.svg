@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #00ADD8;width: 67.775%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.913%;" class="progress-item"></span><span style="background-color: #3178c6;width: 6.329%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 5.155%;" class="progress-item"></span><span style="background-color: #3572A5;width: 4.741%;" class="progress-item"></span><span style="background-color: #427819;width: 2.218%;" class="progress-item"></span><span style="background-color: #336790;width: 1.615%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.856%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.399%;" class="progress-item"></span>
+<span style="background-color: #00ADD8;width: 67.779%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.911%;" class="progress-item"></span><span style="background-color: #3178c6;width: 6.328%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 5.154%;" class="progress-item"></span><span style="background-color: #3572A5;width: 4.741%;" class="progress-item"></span><span style="background-color: #427819;width: 2.217%;" class="progress-item"></span><span style="background-color: #336790;width: 1.615%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.856%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.399%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Go</span>
-<span class="percent">67.77%</span>
+<span class="percent">67.78%</span>
 </li>
 
 
